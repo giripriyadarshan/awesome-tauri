@@ -102,6 +102,7 @@ A curated collection of the best stuff from the Tauri ecosystem and community.
 - [tauri-awesome-rpc](https://github.com/ahkohd/tauri-awesome-rpc) - Custom invoke system that leverages WebSocket.
 - [tauri-nspanel](https://github.com/ahkohd/tauri-nspanel) - Convert a window to panel.
 - [tauri-plugin-nosleep](https://github.com/pevers/tauri-plugin-nosleep/) - Block the power save functionality in the OS.
+- [tauri-plugin-openurl](https://github.com/giripriyadarshan/tauri-plugin-openurl) - open url in default browser (just like target blank) in Tauri (fixes mobile platform bug of opening url within the app itself in Tauri v2)
 
 ### Integrations
 
